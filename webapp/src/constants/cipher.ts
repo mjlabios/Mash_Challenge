@@ -1,0 +1,4 @@
+export const CIPHER = {
+  IV: "I8zyA4lVhMCaJ5Kg",
+  KEY: "41435231323535552d4a312041757458",
+};

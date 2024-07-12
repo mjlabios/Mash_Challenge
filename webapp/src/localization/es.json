@@ -1,0 +1,49 @@
+{
+    "language": "Spanish",
+    "code": "es",
+    "screens": {
+      "login": {
+        "username": "Usuario o Dirección de correo electrónico",
+        "password": "contraseña",
+        "signUp": "¿No tienes una cuenta? Inscribirse",
+        "signIn": "Iniciar sesión"
+      },
+      "registration": {
+        "title": "Inscribirse",
+        "firstName": "Nombre de pila",
+        "lastName": "Apellido",
+        "username": "Nombre de usuario",
+        "email": "Dirección de correo electrónico",
+        "password": "Contraseña",
+        "signUp": "Crea una cuenta nueva",
+        "loginBack": "¿Ya tienes una cuenta? Iniciar sesión"
+      },
+      "profile": {
+        "name":"Nombre",
+        "email": "correo electrónico",
+        "username": "Nombre de usuario",
+        "oldPass": "Contraseña anterior",
+        "newPass": "Nueva contraseña",
+        "changePass": "Cambiar la contraseña",
+        "logOut": "Cerrar sesión"
+      }
+    },
+    "validation": {
+      "requiredMessage": "Este campo es obligatorio.",
+      "AEUsernameMessage": "El nombre de usuario debe ser alfanumérico y mínimo 7 caracteres.",
+      "DefaultUsernameMessage": "El nombre de usuario debe ser alfanumérico y mínimo 3 caracteres.",
+      "passwordMustMatch": "Las contraseñas deben coincidir",
+      "emailMessage":"An email is required"
+    },
+    "message": {
+      "SYSTEM_ERROR": "Error en el sistema",
+      "GENERIC_ERROR": "Algo salió mal. ¡Vuelve a intentarlo más tarde!",
+      "INVALID_AUTHENTICATION": "Invalid credentials!",
+      "REGISTRATION_FAILURE": "¡Credenciales no válidas!",
+      "SUCCESS_LOGGEDIN": "¡Iniciado sesión exitosamente!",
+      "SUCCESS_REGISTERED": "Se creó la cuenta, ¡inicie sesión con sus credenciales!",
+      "SUCCESS_CHANGE_PASSWORD": "Contraseña cambiada, vuelva a iniciar sesión con sus credenciales.",
+      "PASSWORD_NOT_MATCHED": "¡Antigua contraseña es incorrecta!",
+      "FAILING_UPDATE": "¡No se pudo actualizar la contraseña!"
+    }
+  }

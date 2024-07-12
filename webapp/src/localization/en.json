@@ -1,0 +1,49 @@
+{
+    "language": "English",
+    "code": "en",
+    "screens": {
+      "login": {
+        "username": "Username or Email Address",
+        "password": "Password",
+        "signUp": "Don't have an account? Sign Up",
+        "signIn": "Sign In"
+      },
+      "registration": {
+        "title": "Sign up",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "username": "Username",
+        "email": "Email Address",
+        "password": "Password",
+        "signUp": "Create New Account",
+        "loginBack": "Already have an account? Sign in"
+      },
+      "profile": {
+        "name": "Name",
+        "email": "Email",
+        "username": "Username",
+        "oldPass": "Old Password",
+        "newPass": "New Password",
+        "changePass": "Change Password",
+        "logOut": "Log out"
+      }
+    },
+    "validation": {
+      "requiredMessage": "This field is required.",
+      "AEUsernameMessage": "Username must be alphanumeric and min 5 characters",
+      "DefaultUsernameMessage": "Username must be alphanumeric and min 3 characters",
+      "passwordMustMatch": "Passwords must match",
+      "emailMessage":"An email is required"
+    },
+    "message": {
+      "SYSTEM_ERROR": "Error in the system",
+      "GENERIC_ERROR": "Something went wrong, Please try again later!",
+      "INVALID_AUTHENTICATION": "Invalid credentials!",
+      "REGISTRATION_FAILURE": "Failed to create an account!",
+      "SUCCESS_LOGGEDIN": "Successfully logged In!",
+      "SUCCESS_REGISTERED": "Account got created, please login with your credentials!",
+      "SUCCESS_CHANGE_PASSWORD": "Password Changed, please re-login with your credentials!",
+      "PASSWORD_NOT_MATCHED": "Old Password is incorrect!",
+      "FAILING_UPDATE": "Failed to update password!"
+    }
+  }
