@@ -1,0 +1,48 @@
+{
+  "language": "Hindi",
+  "code": "hi",
+  "screens": {
+    "login": {
+      "username": "उपयोगकर्ता नाम या ईमेल पता",
+      "password": "पासवर्ड",
+      "signUp": "नया खाता बनाएं",
+      "signIn": "लॉगिन"
+    },
+    "registration": {
+      "title": "साइन अप करें",
+      "firstName": "पहला नाम",
+      "lastName": "उपनाम",
+      "username": "उपयोगकर्ता नाम",
+      "email": "मेल पता",
+      "password": "पासवर्ड",
+      "signUp": "नया खाता बनाएँ",
+      "loginBack": "क्या आपके पास पहले से एक खाता मौजूद है? दाखिल करना"
+    },
+    "profile": {
+      "name":"नाम",
+      "email": "मेल पता",
+      "username": "उपयोगकर्ता नाम",
+      "oldPass": "पुराना पासवर्ड",
+      "newPass": "नया पासवर्ड",
+      "changePass": "पासवर्ड बदलें",
+      "logOut": "लॉग आउट"
+    }
+  },
+  "validation": {
+    "requiredMessage": "यह फ़ील्ड आवश्यक है।",
+    "AEUsernameMessage": "उपयोगकर्ता नाम अक्षर और स्ंख्यात्मक होना चाहिए और कम से कम 6 वर्ण होने चाहिए",
+    "DefaultUsernameMessage": "उपयोगकर्ता नाम अक्षर और संख्यात्मक होना चाहिए और कम से कम 3 वर्ण होने चाहिए",
+    "passwordMustMatch": "पासवर्डों को मेल खाना चाहिए",
+    "emailMessage":"An email is required"
+  },
+  "message": {
+    "GENERIC_ERROR": "कुछ गलत हो गया, कृपया पुनः प्रयास करें!",
+    "INVALID_AUTHENTICATION": "अमान्य प्रमाणीकरण!",
+    "FAILING_CREATE": "खाता बनाने में विफल रहा!",
+    "SUCCESS_LOGGEDIN": "सफलतापूर्वक लॉगिन!",
+    "SUCCESS_REGISTERED": "खाता बन गया, कृपया अपने क्रेडेंशियल्स के साथ लॉगिन करें!",
+    "SUCCESS_CHANGE_PASSWORD": "पासवर्ड बदल गया है, कृपया अपने क्रेडेंशियल्स के साथ पुनः लॉगिन करें!",
+    "PASSWORD_NOT_MATCHED": "पुराना पासवर्ड गलत है!",
+    "FAILING_UPDATE": "पासवर्ड अपडेट करने में विफल!"
+  }
+}
